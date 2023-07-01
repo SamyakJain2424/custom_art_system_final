@@ -15,7 +15,7 @@ Backend-
 Database-
 Postgres SQL
 
-
+**Additional Modules Used**
 1. *Fabric.js is used for showcasing the designs on the t-shirts*
 2. *Multer is used to store the uploaded images in the local machine*
 3. *Stripe is used for showcasing how payment can be done(for demo purpose only)*
