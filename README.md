@@ -16,9 +16,9 @@ Database-
 Postgres SQL
 
 
-1.*Fabric.js is used for showcasing the designs on the t-shirts*__
-2.*Multer is used to store the uploaded images in the local machine*__
-3.*Stripe is used for showcasing how payment can be done(for demo purpose only)*
+1. *Fabric.js is used for showcasing the designs on the t-shirts*
+2. *Multer is used to store the uploaded images in the local machine*
+3. *Stripe is used for showcasing how payment can be done(for demo purpose only)*
 
 
 
