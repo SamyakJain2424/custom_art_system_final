@@ -4,8 +4,8 @@ const loggedIn = require("../controllers/loggedIn")
 const logout = require("../controllers/logout")
 const client = require("../routes/db-config");
 const alert = require("alert");
-const PUBLISHABLE_KEY = "pk_test_51LyvzUSGTQJmdgEsr8c80cw8MOSYU7h2L8tvss2myGiGiLScYqOM4noKa0kvY8BfeFwpWpdiKFRyFNBXYPYyuSNu00F6AudzJ5";
-const SECRET_KEY = "sk_test_51LyvzUSGTQJmdgEs948cuMmM7u4YIzSc6Ni6IrefC9NpotHjWhxSGnlRpdqfeLCLnmGzumQKgD3gzt12gi9LmAVV00OBVFQQVw";
+const PUBLISHABLE_KEY = <publishable key>
+const SECRET_KEY = <secret key>
 
 const stripe = require('stripe')(SECRET_KEY);
 
